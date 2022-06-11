@@ -1,6 +1,8 @@
 .Rhistory
 .ipynb_checkpoints
 
+//.DS_Store
+
 lessons/C00_Sources
 #lessons/C01
 lessons/C02
